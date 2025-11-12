@@ -16,5 +16,11 @@
         "key": "mmdyamam",
         "expirydate": "13-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "93814e14f1cfe82b",
+        "key": "mmdyama",
+        "expirydate": "30-30-9999",
+        "Allowoffline": false
     }
 ]
