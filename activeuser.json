@@ -10,5 +10,11 @@
         "key": "yamazoro",
         "expirydate": "30-12-2225",
         "Allowoffline": false
+    },
+    {
+        "device_id": "15b0cf4a799bd1a1",
+        "key": "mmdyamam",
+        "expirydate": "13-11-2025",
+        "Allowoffline": false
     }
 ]
