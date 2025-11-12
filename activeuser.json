@@ -22,5 +22,11 @@
         "key": "mmdzoro",
         "expirydate": "12-12-2225",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7a9ee3a19cf4b56a",
+        "key": "mmdzoro",
+        "expirydate": "12-12-2225",
+        "Allowoffline": false
     }
 ]
