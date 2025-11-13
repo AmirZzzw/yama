@@ -30,12 +30,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "a8a049ead99d24d6",
-        "key": "Test1",
-        "expirydate": "13-11-2225",
-        "Allowoffline": false
-    },
-    {
         "device_id": "a6b4e47d71bd7347",
         "key": "starmmd",
         "expirydate": "30-12-9999",
