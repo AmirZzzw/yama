@@ -16,5 +16,11 @@
         "key": "mmdyama",
         "expirydate": "12-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a6b4e47d71bd7347",
+        "key": "Sold2",
+        "expirydate": "12-12-2029",
+        "Allowoffline": false
     }
 ]
