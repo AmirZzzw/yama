@@ -10,5 +10,11 @@
         "key": "Sold1",
         "expirydate": "12-12-2050",
         "Allowoffline": false
+    },
+    {
+        "device_id": "93814e14f1cfe82b",
+        "key": "mmdyama",
+        "expirydate": "12-12-2026",
+        "Allowoffline": false
     }
 ]
