@@ -40,5 +40,11 @@
         "key": "starmmd",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "afd766dda539bfe2",
+        "key": "koni",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
