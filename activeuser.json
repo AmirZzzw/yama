@@ -46,5 +46,11 @@
         "key": "mmdkoni",
         "expirydate": "21-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b3024b4f637a21d5",
+        "key": "test224",
+        "expirydate": "15-11-2025",
+        "Allowoffline": false
     }
 ]
