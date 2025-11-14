@@ -40,5 +40,11 @@
         "key": "test222",
         "expirydate": "15-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "afd766dda539bfe2",
+        "key": "mmdkoni",
+        "expirydate": "21-11-2025",
+        "Allowoffline": false
     }
 ]
