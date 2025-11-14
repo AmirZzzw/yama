@@ -64,5 +64,11 @@
         "key": "Weekly",
         "expirydate": "21-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "044c061a235c64b9",
+        "key": "test100",
+        "expirydate": "15-11-2025",
+        "Allowoffline": false
     }
 ]
