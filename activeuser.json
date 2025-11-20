@@ -64,5 +64,11 @@
         "key": "test000",
         "expirydate": "21-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "044c061a235c64b9",
+        "key": "test6",
+        "expirydate": "21-11-2025",
+        "Allowoffline": false
     }
 ]
