@@ -58,5 +58,11 @@
         "key": "fros2",
         "expirydate": "12-12-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a4e8f885f8d3a47f",
+        "key": "test000",
+        "expirydate": "21-11-2025",
+        "Allowoffline": false
     }
 ]
