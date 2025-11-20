@@ -82,5 +82,11 @@
         "key": "amir",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a4e8f885f8d3a47f",
+        "key": "7day",
+        "expirydate": "29-11-2025",
+        "Allowoffline": false
     }
 ]
