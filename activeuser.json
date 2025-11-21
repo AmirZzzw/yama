@@ -82,5 +82,11 @@
         "key": "7day",
         "expirydate": "29-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e33a5569ef50e98b",
+        "key": "Amirxx",
+        "expirydate": "22-15-2060",
+        "Allowoffline": false
     }
 ]
