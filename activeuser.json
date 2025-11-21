@@ -100,5 +100,11 @@
         "key": "ahajkakak",
         "expirydate": "25-11-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "80e8cb82d092b1cd",
+        "key": "KingTandar",
+        "expirydate": "25-11-2026",
+        "Allowoffline": false
     }
 ]
