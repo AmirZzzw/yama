@@ -100,11 +100,5 @@
         "key": "KingTandar",
         "expirydate": "25-11-2026",
         "Allowoffline": false
-    },
-    {
-        "device_id": "e33a5569ef50e98b",
-        "key": "Amirpl",
-        "expirydate": "6-5-2030",
-        "Allowoffline": false
     }
 ]
