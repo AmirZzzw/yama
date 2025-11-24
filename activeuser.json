@@ -16,11 +16,5 @@
         "key": "2029day",
         "expirydate": "12-12-2029",
         "Allowoffline": false
-    },
-    {
-        "device_id": "ac6c233a78f86ec7",
-        "key": "kimya",
-        "expirydate": "11-11-2029",
-        "Allowoffline": false
     }
 ]
