@@ -22,5 +22,11 @@
         "key": "1355day",
         "expirydate": "11-11-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a6b4e47d71bd7347",
+        "key": "mmdstar",
+        "expirydate": "25-11-2025",
+        "Allowoffline": false
     }
 ]
