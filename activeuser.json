@@ -28,5 +28,11 @@
         "key": "mmdzoro",
         "expirydate": "12-11-2029",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a6b4e47d71bd7347",
+        "key": "mmdstar",
+        "expirydate": "12-11-2029",
+        "Allowoffline": false
     }
 ]
