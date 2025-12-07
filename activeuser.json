@@ -58,5 +58,11 @@
     "key": "جق ایکس اره",
     "expirydate": "14-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "164b7550f817ffd1",
+    "key": "کون عمومی",
+    "expirydate": "14-12-2025",
+    "Allowoffline": false
   }
 ]
