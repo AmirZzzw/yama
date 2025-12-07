@@ -40,5 +40,11 @@
     "key": "جق ایکس",
     "expirydate": "14-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "b26144ccfe6fbe1a",
+    "key": "کس ایکس",
+    "expirydate": "14-12-2025",
+    "Allowoffline": false
   }
 ]
