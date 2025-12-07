@@ -52,5 +52,11 @@
     "key": "1",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "da70be748cbe5ecd",
+    "key": "جق ایکس اره",
+    "expirydate": "14-12-2025",
+    "Allowoffline": false
   }
 ]
