@@ -64,5 +64,11 @@
         "key": "کون عمومی",
         "expirydate": "14-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "59383f3481e0f4cb",
+        "key": "mmdkono",
+        "expirydate": "12-12-2028",
+        "Allowoffline": false
     }
 ]
