@@ -70,5 +70,11 @@
         "key": "mmdkono",
         "expirydate": "12-12-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "75125f7190a647c3",
+        "key": "konikhanom",
+        "expirydate": "12-12-2029",
+        "Allowoffline": false
     }
 ]
