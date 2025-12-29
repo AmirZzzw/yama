@@ -76,5 +76,11 @@
         "key": "konikhanom",
         "expirydate": "12-12-2029",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b4534f6d0019143e",
+        "key": "1daytest",
+        "expirydate": "31-12-2025",
+        "Allowoffline": false
     }
 ]
