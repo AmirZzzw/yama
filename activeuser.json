@@ -36,27 +36,9 @@
     "Allowoffline": false
   },
   {
-    "device_id": "6733f1cfd1d05551",
-    "key": "جق ایکس",
-    "expirydate": "14-12-2025",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "b26144ccfe6fbe1a",
-    "key": "کس ایکس",
-    "expirydate": "14-12-2025",
-    "Allowoffline": false
-  },
-  {
     "device_id": "7f3b03c58d0e4bcf",
     "key": "1",
     "expirydate": "31-12-9999",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "164b7550f817ffd1",
-    "key": "کون عمومی",
-    "expirydate": "14-12-2025",
     "Allowoffline": false
   },
   {
@@ -69,12 +51,6 @@
     "device_id": "75125f7190a647c3",
     "key": "konikhanom",
     "expirydate": "12-12-2029",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "b4534f6d0019143e",
-    "key": "1daytest",
-    "expirydate": "31-12-2025",
     "Allowoffline": false
   }
 ]
