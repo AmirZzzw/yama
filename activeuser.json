@@ -10,5 +10,11 @@
     "key": "konikhanom",
     "expirydate": "12-12-2029",
     "Allowoffline": false
+  },
+  {
+    "device_id": "02b0c13f23afb3ac",
+    "key": "Good",
+    "expirydate": "26-02-2026",
+    "Allowoffline": false
   }
 ]
